@@ -1,0 +1,28 @@
+.container2{
+    background-color: grey;
+    height: 100px;
+    display: flex;
+    align-content: center;  
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: bold;
+    font-size: 40px;
+    color: white;
+    text-indent: 30px;
+}
+
+.container3{
+    background-color: lightgray;
+    height: 50px;
+}
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    max-width: 100%;
+}
+
